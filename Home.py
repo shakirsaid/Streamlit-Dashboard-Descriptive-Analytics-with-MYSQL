@@ -18,7 +18,7 @@ with open('style.css')as f:
 
 #fetch data
 #result = view_all_data()
-#df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating","id"])
+#df=pd.DataFrame(result,columns=["Policy","Expiry","Location","State","Region","Investment","Construction","BusinessType","Earthquake","Flood","Rating"])
 
  
 #load excel file
